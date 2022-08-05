@@ -1,1 +1,1 @@
-Estes são os exercícios contidos no Curso em Video - MUndo 1.
+Estes são os exercícios contidos no Curso em Video - Mundo 1.
