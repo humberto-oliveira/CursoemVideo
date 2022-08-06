@@ -6,7 +6,7 @@ print('Como você tem {:.2f} R$, poderá comprar {:.2f} US$ '.format(dinh, n))
 
 # Como o Guanabara fez:
 
-real = float(input('Quanto dinheiro você tem na carteira? R$'))
-dolar = real / 3.27
-print('Com R${:.2f} você pode comprar US${:.2f}'.format(real, dolar))
+# real = float(input('Quanto dinheiro você tem na carteira? R$'))
+# dolar = real / 3.27
+# print('Com R${:.2f} você pode comprar US${:.2f}'.format(real, dolar))
 
